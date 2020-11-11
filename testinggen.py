@@ -11,7 +11,7 @@ BLINK = "\033[5m"
 NEGATIVE = "\033[7m"
 FAINT = "\033[2m"
 
-print('Created by: Jaden the Melee Fox#0666')
+print('Created by: GoldenJayz')
 amount = int(input('How much nitro codes do you wish to generate?:\n'))
 f = open('output.txt', 'w')
 
